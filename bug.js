@@ -1,0 +1,1 @@
+The Tailwind CSS configuration file (tailwind.config.js or tailwind.config.cjs) is not correctly configured or is missing important settings. This often leads to unexpected styles not being applied or errors during the build process.  For example, missing `content` array in `tailwind.config.js` often cause this.
